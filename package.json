@@ -1,0 +1,16 @@
+{
+  "name": "batmat-node-playground",
+  "version": "0.0.0",
+  "description": "Small node playground project for myself.",
+  "main": "src",
+  "engines": {
+    "node": "^8.0.0",
+    "npm": ">= 6.4.1"
+  },
+  "scripts": {
+    "bim": "node playground.js run playground",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baptiste Mathus",
+  "license": "LGPL-3.0-or-later"
+}
