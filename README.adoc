@@ -1,0 +1,6 @@
+= Node playground project
+
+This project is a playground for me, in case I want/need to find something I played with in the past.
+Just wanted to have some versioned place to put snippets and the likes.
+
+Designed for me, and only for me, but if someone wants to take snippets, just feel free to do.
